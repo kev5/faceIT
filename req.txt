@@ -1,9 +1,4 @@
-BeautifulSoup==3.2.1
-beautifulsoup4==4.6.0
-bs4==0.0.1
-certifi==2017.7.27.1
-chardet==3.0.4
-dj-database-url==0.4.2
+
 Django==1.11.5
 django-filter==1.1.0
 djangorestframework==3.7.1
