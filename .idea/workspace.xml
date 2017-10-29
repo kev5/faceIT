@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8588326b-9374-42aa-9ac3-cef6b9fdf605" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/users/templates/create.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/views.py" afterPath="$PROJECT_DIR$/users/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bostonHack2017ImgRec/settings.py" afterPath="$PROJECT_DIR$/bostonHack2017ImgRec/settings.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bostonHack2017ImgRec/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1770">
-              <caret line="118" column="21" lean-forward="false" selection-start-line="118" selection-start-column="21" selection-end-line="118" selection-end-column="21" />
+            <state relative-caret-position="319">
+              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -82,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/users/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="30" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
               </folding>
@@ -108,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/users/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -141,12 +139,12 @@
         <option value="$PROJECT_DIR$/users/models.py" />
         <option value="$PROJECT_DIR$/users/serializers.py" />
         <option value="$PROJECT_DIR$/users/urls.py" />
-        <option value="$PROJECT_DIR$/bostonHack2017ImgRec/settings.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/users/template.html" />
         <option value="$PROJECT_DIR$/users/views.py" />
         <option value="$PROJECT_DIR$/users/templates/create.html" />
+        <option value="$PROJECT_DIR$/bostonHack2017ImgRec/settings.py" />
       </list>
     </option>
   </component>
@@ -183,6 +181,22 @@
             <path>
               <item name="bostonHack2017ImgRec" type="b2602c69:ProjectViewProjectNode" />
               <item name="bostonHack2017ImgRec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bostonHack2017ImgRec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bostonHack2017ImgRec" type="462c0819:PsiDirectoryNode" />
+              <item name="bostonHack2017ImgRec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bostonHack2017ImgRec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bostonHack2017ImgRec" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bostonHack2017ImgRec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bostonHack2017ImgRec" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="rest_framework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bostonHack2017ImgRec" type="b2602c69:ProjectViewProjectNode" />
@@ -268,9 +282,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -489,14 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bostonHack2017ImgRec/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1770">
-          <caret line="118" column="21" lean-forward="false" selection-start-line="118" selection-start-column="21" selection-end-line="118" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -541,7 +546,7 @@
     <entry file="file://$PROJECT_DIR$/users/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -557,10 +562,18 @@
     <entry file="file://$PROJECT_DIR$/users/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="30" />
           <folding>
             <element signature="e#24#63#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bostonHack2017ImgRec/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
