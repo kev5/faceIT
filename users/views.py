@@ -8,7 +8,8 @@ from rest_framework.generics import CreateAPIView
 
 from users.models import User, Contact
 from users.serializers import UserSerializer, ContactSerializer
-
+from rest_framework.renderers import TemplateHTMLRenderer
+from rest_framework.response import Response
 
 class CreateUser(CreateAPIView):
     """
@@ -16,8 +17,11 @@ class CreateUser(CreateAPIView):
     """
     queryset = User.objects.all()
     serializer_class = UserSerializer
+    renderer_classes = (TemplateHTMLRenderer,)
+
+    def get(self, request, *args, **kwargs):
+        return Response(template_name='create.html')
 
 class CreateContact(CreateAPIView):
     queryset = Contact.objects.filter()
     serializer_class = ContactSerializer
-    # permission_classes = ('IsAuthenticated',)

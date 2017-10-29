@@ -1,0 +1,262 @@
+<html class="gr__localhost"><head>
+
+
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="robots" content="NONE,NOARCHIVE">
+
+
+      <title>Create User – Django REST framework</title>
+
+
+
+          <link rel="stylesheet" type="text/css" href="/static/rest_framework/css/bootstrap.min.css">
+          <link rel="stylesheet" type="text/css" href="/static/rest_framework/css/bootstrap-tweaks.css">
+
+
+        <link rel="stylesheet" type="text/css" href="/static/rest_framework/css/prettify.css">
+        <link rel="stylesheet" type="text/css" href="/static/rest_framework/css/default.css">
+
+
+
+  </head>
+
+
+  <body class="" data-gr-c-s-loaded="true">
+
+    <div class="wrapper">
+
+
+
+      <div class="container">
+
+          <ul class="breadcrumb">
+
+
+                <li class="active"><a href="/users/create/">Create User</a></li>
+
+
+          </ul>
+
+
+        <!-- Content -->
+        <div id="content" role="main" aria-label="content">
+
+            <div class="content-main" role="main" aria-label="main content">
+              <div class="page-header">
+                <h1>Create User</h1>
+              </div>
+
+
+
+
+            </div>
+
+
+
+                <div class="tabbable">
+
+                    <ul class="nav nav-tabs form-switcher">
+                      <li class="active">
+                        <a name="html-tab" href="#post-object-form" data-toggle="tab" aria-expanded="true"></a>
+                      </li>
+                    </ul>
+
+
+                  <div class="well tab-content">
+
+                      <div class="tab-pane active" id="post-object-form">
+
+                          <form action="/users/create/" method="POST" enctype="multipart/form-data" class="form-horizontal" novalidate="">
+                            <fieldset>
+                              <input type="hidden" name="csrfmiddlewaretoken" value="2xcbjhNsd5h7CfcetD1FT98zX2ypfma5QTdYjBIhDxEr4gXFbQM1bw5hkc79VUfC">
+
+
+
+    <div class="form-group ">
+
+    <label class="col-sm-2 control-label ">
+      Username
+    </label>
+
+
+  <div class="col-sm-10">
+    <input name="username" class="form-control" type="text">
+
+
+
+
+      <span class="help-block">Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</span>
+
+  </div>
+</div>
+
+
+
+
+    <div class="form-group ">
+
+    <label class="col-sm-2 control-label ">
+      First name
+    </label>
+
+
+  <div class="col-sm-10">
+    <input name="first_name" class="form-control" type="text">
+
+
+
+
+  </div>
+</div>
+
+
+
+
+    <div class="form-group ">
+
+    <label class="col-sm-2 control-label ">
+      Last name
+    </label>
+
+
+  <div class="col-sm-10">
+    <input name="last_name" class="form-control" type="text">
+
+
+
+
+  </div>
+</div>
+
+
+
+
+    <div class="form-group ">
+
+    <label class="col-sm-2 control-label ">
+      Password
+    </label>
+
+
+  <div class="col-sm-10">
+    <input name="password" class="form-control" type="text">
+
+
+
+
+  </div>
+</div>
+
+
+
+
+    <div class="form-group ">
+
+    <label class="col-sm-2 control-label ">
+      Image
+    </label>
+
+
+  <div class="col-sm-10">
+    <input name="image" type="file">
+
+
+
+
+  </div>
+</div>
+
+
+
+
+                              <div class="form-actions">
+                                <button class="btn btn-primary" title="Make a POST request on the Create User resource">POST</button>
+                              </div>
+                            </fieldset>
+                          </form>
+
+                      </div>
+
+
+                    <div class="tab-pane" id="post-generic-content-form">
+
+                        <form action="/users/create/" method="POST" class="form-horizontal">
+                          <fieldset>
+
+
+
+  <div class="form-group">
+    <label for="id__content_type" class="col-sm-2 control-label">Media type:</label>
+    <div class="col-sm-10">
+      <select name="_content_type" data-override="content-type" id="id__content_type" class="form-control">
+  <option value="application/json" selected="">application/json</option>
+
+  <option value="application/x-www-form-urlencoded">application/x-www-form-urlencoded</option>
+
+  <option value="multipart/form-data">multipart/form-data</option>
+
+</select>
+      <span class="help-block"></span>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <label for="id__content" class="col-sm-2 control-label">Content:</label>
+    <div class="col-sm-10">
+      <textarea name="_content" data-override="content" rows="10" cols="40" id="id__content" class="form-control">{
+    "username": "",
+    "first_name": "",
+    "last_name": "",
+    "password": "",
+    "image": null
+}</textarea>
+      <span class="help-block"></span>
+    </div>
+  </div>
+
+
+                            <div class="form-actions">
+                              <button class="btn btn-primary" title="Make a POST request on the Create User resource">POST</button>
+                            </div>
+                          </fieldset>
+                        </form>
+
+                    </div>
+                  </div>
+                </div>
+
+
+
+
+
+        </div><!-- /.content -->
+      </div><!-- /.container -->
+    </div><!-- ./wrapper -->
+
+
+
+
+      <script>
+        window.drf = {
+          csrfHeaderName: "X-CSRFTOKEN",
+          csrfCookieName: "csrftoken"
+        };
+      </script>
+      <script src="/static/rest_framework/js/jquery-1.12.4.min.js"></script>
+      <script src="/static/rest_framework/js/ajax-form.js"></script>
+      <script src="/static/rest_framework/js/csrf.js"></script>
+      <script src="/static/rest_framework/js/bootstrap.min.js"></script>
+      <script src="/static/rest_framework/js/prettify-min.js"></script>
+      <script src="/static/rest_framework/js/default.js"></script>
+      <script>
+        $(document).ready(function() {
+          $('form').ajaxForm();
+        });
+      </script>
+
+
+
+
+
+</body></html>
