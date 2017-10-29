@@ -1,8 +1,14 @@
 import cv2
+from django.conf import settings
+
+recognizer = cv2.face.LBPHFaceRecognizer_create()
+
+recognizer.read(settings.BASE_DIR + 'users/recognizer/training_set.yml')
+
 
 
 def image_recognition(file):
-    img = cv2.imread(file)
+    img = cv2.imread(settings.BASE_DIR+'/'+file)
 
     gray = cv2.imread(file, 0)
 
@@ -20,6 +26,7 @@ def image_recognition(file):
 
 def capture_recognition():
     cam = cv2.VideoCapture(0)
+    detector = cv2.CascadeClassifier(settings.BASE_DIR + 'users/haarcascade_frontalface_default.xml')
 
     while True:
         ret, img = cam.read()
@@ -46,14 +53,4 @@ def capture_recognition():
     cam.release()
 
 
-def main():
-    recognizer.read('recognizer/training_set.yml')
-    # capture_recognition()
-    # image_recognition('this_is_user_1.jpg')
 
-
-recognizer = cv2.face.LBPHFaceRecognizer_create()
-detector = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-
-if __name__ == '__main__':
-    main()

@@ -4,9 +4,11 @@ from users.models import User, Contact, Image
 
 
 class ImageSerializer(serializers.ModelSerializer):
+    user_id = serializers.IntegerField(source='user.id')
+
     class Meta:
         model = Image
-        fields = ('name')
+        fields = ('name', 'user_id')
 
 class UserSerializer(serializers.ModelSerializer):
     class Meta:

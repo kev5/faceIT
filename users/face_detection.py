@@ -1,9 +1,12 @@
 import cv2
 from django.conf import settings
 
-def face_detection(file):
-    img = cv2.imread(settings.BASE_DIR+file)
 
+
+
+def face_detection(file):
+    img = cv2.imread(settings.BASE_DIR+'/'+file)
+    detector = cv2.CascadeClassifier(settings.BASE_DIR + '/users/haarcascade_frontalface_default.xml')
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
     faces = detector.detectMultiScale(gray, 1.3, 5)
@@ -15,4 +18,13 @@ def face_detection(file):
     cv2.imwrite(file, gray[y: y + h, x: x + w])
 
 
-detector = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+
+
+import os
+
+def update():
+    files = [f for f in os.listdir(settings.BASE_DIR+'/media') if os.path.isfile(f)]
+    for img in files:
+        face_detection(img)
+
+

@@ -12,6 +12,7 @@ from users.serializers import UserSerializer, ContactSerializer
 from rest_framework.renderers import TemplateHTMLRenderer
 from rest_framework.response import Response
 from .face_detection import face_detection
+from .face_recognizer import image_recognition
 from django.core.files.storage import default_storage
 import os
 import tempfile
@@ -25,14 +26,17 @@ class CheckImage(APIView):
     def post(self,request):
 #        do some processing
         image = request.FILES['image']
-        f = open('tmp.png', 'w') # open the tmp file for writing
+        path = 'tmp.png'
+        f = open(path, 'w') # open the tmp file for writing
         f.write(image.read()) # write the tmp file
         f.close()
-
-        ### return the path of the file
-        filepath = 'tmp'
-        print face_detection(filepath)
-        return Response(dict(mesg=''),template_name='takeImage.html')
+        face_detection(path)
+        id= image_recognition(path)
+        if id == -1:
+            mesg= "Not found"
+        else:
+            mesg = UserSerializer(User.objects.get(pk=id)).data
+        return Response(dict(mesg=mesg),template_name='takeImage.html')
 
 
 class CreateUser(CreateAPIView):
