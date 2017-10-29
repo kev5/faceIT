@@ -20,5 +20,5 @@ class UserAdmin(admin.ModelAdmin):
 
 
 
-
+admin.site.register(Image)
 admin.site.register(User,UserAdmin)

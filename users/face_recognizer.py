@@ -7,7 +7,7 @@ recognizer = cv2.face.LBPHFaceRecognizer_create()
 
 
 def image_recognition(file):
-    recognizer.read(settings.BASE_DIR + 'users/recognizer/training_set.yml')
+    recognizer.read(settings.BASE_DIR + '/users/recognizer/training_set.yml')
 
     img = cv2.imread(settings.BASE_DIR+'/'+file)
 

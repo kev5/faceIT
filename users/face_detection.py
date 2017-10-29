@@ -1,7 +1,7 @@
 import cv2
 from django.conf import settings
 
-
+from users.models import User, Image
 
 
 def face_detection(file):
@@ -26,5 +26,14 @@ def update():
     files = [f for f in os.listdir(settings.BASE_DIR+'/media') if os.path.isfile(f)]
     for img in files:
         face_detection(img)
+
+def create_data():
+    files = [f for f in os.listdir(settings.BASE_DIR + '/media')]
+
+    # for i in range(1,6):
+    #     User.objects.create(id=i,username='test{0}'.format(i),first_name='test{0}'.format(i),last_name='test{0}'.format(i))
+
+    for file in files:
+        Image.objects.create(name=file,user_id=file.split('_')[1])
 
 

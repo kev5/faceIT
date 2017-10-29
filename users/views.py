@@ -2,14 +2,14 @@
 from __future__ import unicode_literals
 
 from django.shortcuts import render
-
+from django.http import HttpResponse
 # Create your views here.
 from rest_framework.generics import CreateAPIView,ListAPIView
 from rest_framework.views import APIView
 
 from users.models import User, Contact
 from users.serializers import UserSerializer, ContactSerializer
-from rest_framework.renderers import TemplateHTMLRenderer
+from rest_framework.renderers import TemplateHTMLRenderer,JSONRenderer
 from rest_framework.response import Response
 from .face_detection import face_detection
 from .face_recognizer import image_recognition
@@ -26,7 +26,7 @@ class CheckImage(APIView):
     def post(self,request):
 #        do some processing
         image = request.FILES['image']
-        path = 'tmp.png'
+        path = 'tmp.jpg'
         f = open(path, 'w') # open the tmp file for writing
         f.write(image.read()) # write the tmp file
         f.close()
@@ -36,7 +36,8 @@ class CheckImage(APIView):
             mesg= "Not found"
         else:
             mesg = UserSerializer(User.objects.get(pk=id)).data
-        return Response(dict(mesg=mesg),template_name='takeImage.html')
+        print mesg
+        return HttpResponse(mesg,content_type='application/json')
 
 
 class CreateUser(CreateAPIView):

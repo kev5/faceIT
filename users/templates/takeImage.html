@@ -31,7 +31,6 @@
 
 <h1>Image Checker</h1>
 <video autoplay></video>
-          {{ mesg }}
 <form id="myAwesomeForm" method="post" action="/php-code-that-handles-fileupload.php">
     {% csrf_token %}
 </form>
@@ -105,10 +104,11 @@ $.ajax({
     cache:false,
     dataType:"json", // Change this according to your response from the server.
     error:function(err){
-        console.error(err);
+        alert(err);
+        console.log(err);
     },
     success:function(data){
-        console.log(data);
+        alert(data);
     },
     complete:function(){
         console.log("Request finished.");
