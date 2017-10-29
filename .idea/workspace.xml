@@ -2,198 +2,196 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8588326b-9374-42aa-9ac3-cef6b9fdf605" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_1_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_2_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_3_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_4_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/user_5_9.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/media/tmp.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp.png" afterPath="$PROJECT_DIR$/tmp.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_1_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_2_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_3_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_4_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_30.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_31.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_33.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_35.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_36.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_37.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_39.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/user_5_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/users/recognizer/training_set.yml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp.jpg" afterPath="$PROJECT_DIR$/tmp.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/admin.py" afterPath="$PROJECT_DIR$/users/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/face_detection.py" afterPath="$PROJECT_DIR$/users/face_detection.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/face_recognizer.py" afterPath="$PROJECT_DIR$/users/face_recognizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bostonHack2017ImgRec/settings.py" afterPath="$PROJECT_DIR$/bostonHack2017ImgRec/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bostonHack2017ImgRec/urls.py" afterPath="$PROJECT_DIR$/bostonHack2017ImgRec/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/face_training.py" afterPath="$PROJECT_DIR$/users/face_training.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/serializers.py" afterPath="$PROJECT_DIR$/users/serializers.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/templates/takeImage.html" afterPath="$PROJECT_DIR$/users/templates/takeImage.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/users/views.py" afterPath="$PROJECT_DIR$/users/views.py" />
     </list>
@@ -213,43 +211,51 @@
       <file leaf-file-name="takeImage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/users/templates/takeImage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="107" column="25" lean-forward="false" selection-start-line="107" selection-start-column="25" selection-end-line="107" selection-end-column="25" />
+            <state relative-caret-position="465">
+              <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="face_training.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/users/face_training.py">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bostonHack2017ImgRec/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+            <state relative-caret-position="315">
+              <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#654#695#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/users/serializers.py">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/users/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+            <state relative-caret-position="60">
+              <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="face_recognizer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/admin/css/base.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3510">
+              <caret line="234" column="24" lean-forward="false" selection-start-line="234" selection-start-column="24" selection-end-line="234" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="face_recognizer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/users/face_recognizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -257,48 +263,38 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bostonHack2017ImgRec/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="108" column="9" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="9" />
+            <state relative-caret-position="390">
+              <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/users/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-              <folding>
-                <element signature="e#24#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tmp.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tmp.jpg">
+      <file leaf-file-name="user_5_99.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/media/user_5_99.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_1_3.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/media/user_1_3.jpg">
+      <file leaf-file-name="user_3_79.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/media/user_3_79.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="face_detection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/users/face_detection.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
+      <file leaf-file-name="user_3_82.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/media/user_3_82.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_3_78.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/media/user_3_78.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -319,6 +315,8 @@
       <find>templa</find>
       <find>pass</find>
       <find>img</find>
+      <find>image</find>
+      <find>417</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -333,17 +331,18 @@
         <option value="$PROJECT_DIR$/users/template.html" />
         <option value="$PROJECT_DIR$/users/templates/create.html" />
         <option value="$PROJECT_DIR$/req.txt" />
-        <option value="$PROJECT_DIR$/bostonHack2017ImgRec/urls.py" />
         <option value="$PROJECT_DIR$/users/models.py" />
         <option value="$PROJECT_DIR$/users/urls.py" />
-        <option value="$PROJECT_DIR$/bostonHack2017ImgRec/settings.py" />
         <option value="$PROJECT_DIR$/users/face_recognizer.py" />
         <option value="$PROJECT_DIR$/users/admin.py" />
         <option value="$PROJECT_DIR$/users/face_detection.py" />
-        <option value="$PROJECT_DIR$/users/face_training.py" />
         <option value="$PROJECT_DIR$/users/serializers.py" />
-        <option value="$PROJECT_DIR$/users/templates/takeImage.html" />
+        <option value="$PROJECT_DIR$/users/face_training.py" />
         <option value="$PROJECT_DIR$/users/views.py" />
+        <option value="$PROJECT_DIR$/bostonHack2017ImgRec/settings.py" />
+        <option value="$PROJECT_DIR$/users/templates/takeImage.html" />
+        <option value="$PROJECT_DIR$/static/admin/css/base.css" />
+        <option value="$PROJECT_DIR$/bostonHack2017ImgRec/urls.py" />
       </list>
     </option>
   </component>
@@ -355,8 +354,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="width" value="1205" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -374,6 +373,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -394,13 +394,20 @@
             <path>
               <item name="bostonHack2017ImgRec" type="b2602c69:ProjectViewProjectNode" />
               <item name="bostonHack2017ImgRec" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bostonHack2017ImgRec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bostonHack2017ImgRec" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bostonHack2017ImgRec" type="b2602c69:ProjectViewProjectNode" />
               <item name="bostonHack2017ImgRec" type="462c0819:PsiDirectoryNode" />
               <item name="users" type="462c0819:PsiDirectoryNode" />
-              <item name="recognizer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bostonHack2017ImgRec" type="b2602c69:ProjectViewProjectNode" />
@@ -412,7 +419,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -483,19 +489,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1205" height="778" extended-state="0" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2682717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -506,6 +510,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
@@ -530,11 +535,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/users/recognizer/training_set.yml">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-275165">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/face_recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detection.py" />
+    <entry file="file://$PROJECT_DIR$/images/user_4_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/image_capture.py" />
     <entry file="file://$USER_HOME$/.envs/django101/lib/python2.7/site-packages/django/contrib/auth/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5295">
           <caret line="368" column="23" lean-forward="false" selection-start-line="368" selection-start-column="11" selection-end-line="368" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +564,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="e#654#695#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -559,7 +583,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -569,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5295">
           <caret line="368" column="23" lean-forward="false" selection-start-line="368" selection-start-column="11" selection-end-line="368" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -577,7 +599,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="e#654#695#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -594,7 +618,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -604,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5295">
           <caret line="368" column="23" lean-forward="false" selection-start-line="368" selection-start-column="11" selection-end-line="368" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,7 +634,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="e#654#695#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -629,7 +653,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -639,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,7 +669,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="e#654#695#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -664,7 +688,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -677,41 +700,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/users/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/users/test.py" />
     <entry file="file://$USER_HOME$/.envs/django101/lib/python2.7/site-packages/django/contrib/auth/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="368" column="23" lean-forward="false" selection-start-line="368" selection-start-column="11" selection-end-line="368" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -721,7 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,25 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bostonHack2017ImgRec/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -763,23 +749,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="31" column="0" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/users/tasks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/users/tasks.py" />
     <entry file="file://$PROJECT_DIR$/users/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,35 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/face_detection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bostonHack2017ImgRec/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="108" column="9" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/face_training.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="60" lean-forward="false" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -823,23 +771,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="15" column="56" lean-forward="false" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/media/user_1_3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/users/templates/takeImage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="107" column="25" lean-forward="false" selection-start-line="107" selection-start-column="25" selection-end-line="107" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/media/user_1_3.jpg" />
     <entry file="file://$PROJECT_DIR$/tmp.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -850,16 +785,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/users/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users/recognizer/training_set.yml">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="-275165">
@@ -867,12 +792,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/users/face_recognizer.py">
+    <entry file="file://$PROJECT_DIR$/users/face_detection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="-180">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/face_training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="40" column="75" lean-forward="false" selection-start-line="40" selection-start-column="75" selection-end-line="40" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bostonHack2017ImgRec/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/user_5_99.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/user_3_79.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/user_3_82.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/user_3_78.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/face_recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/templates/takeImage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3510">
+          <caret line="234" column="24" lean-forward="false" selection-start-line="234" selection-start-column="24" selection-end-line="234" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/users/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bostonHack2017ImgRec/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="e#654#695#0" expanded="true" />
           </folding>
         </state>
       </provider>

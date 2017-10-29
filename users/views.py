@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
+import json
+
 from django.shortcuts import render
 from django.http import HttpResponse
 # Create your views here.
@@ -20,6 +22,7 @@ import tempfile
 
 class CheckImage(APIView):
     renderer_classes = (TemplateHTMLRenderer,)
+
     def get(self,request):
         return Response(template_name='takeImage.html')
 
@@ -35,8 +38,8 @@ class CheckImage(APIView):
         if id == -1:
             mesg= "Not found"
         else:
-            mesg = UserSerializer(User.objects.get(pk=id)).data
-        print mesg
+            mesg = json.dumps(UserSerializer(User.objects.get(id=id)).data)
+            print mesg
         return HttpResponse(mesg,content_type='application/json')
 
 

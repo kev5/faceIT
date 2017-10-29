@@ -29,7 +29,7 @@
 
       <div class="container">
 
-<h1>Image Checker</h1>
+<h1>Image Identifier</h1>
 <video autoplay></video>
 <form id="myAwesomeForm" method="post" action="/php-code-that-handles-fileupload.php">
     {% csrf_token %}
@@ -104,11 +104,12 @@ $.ajax({
     cache:false,
     dataType:"json", // Change this according to your response from the server.
     error:function(err){
-        alert(err);
-        console.log(err);
+        alert("Error");
+        console.log(err)
     },
     success:function(data){
-        alert(data);
+        alert("Hi  "+data.first_name+" " +data.last_name);
+        console.log(data);
     },
     complete:function(){
         console.log("Request finished.");

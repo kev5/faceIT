@@ -16,7 +16,12 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 
+from users.views import CheckImage
+
+admin.site.site_header = 'Face It'
+
 urlpatterns = [
+    url(r'^$', CheckImage.as_view()),
     url(r'^admin/', admin.site.urls),
 url(r'', include('users.urls')),
    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework'))
