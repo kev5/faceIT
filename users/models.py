@@ -7,8 +7,16 @@ from django.contrib.auth.models import AbstractUser
 
 
 class User(AbstractUser):
-    image = models.ImageField()
+    pass
+
+class Image(models.Model):
+    name = models.ImageField()
+    user = models.ForeignKey(User)
+
+
+
+
 
 class Contact(models.Model):
-    user = models.OneToOneField(to=User,related_name='user')
-    friend = models.ManyToManyField(to=User,related_name='contacts')
+    user = models.OneToOneField(to=User, related_name='user')
+    friend = models.ManyToManyField(to=User, related_name='contacts')

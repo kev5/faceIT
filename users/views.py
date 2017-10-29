@@ -18,13 +18,13 @@ class CreateUser(CreateAPIView):
     queryset = User.objects.all()
     serializer_class = UserSerializer
 
-class CreateUser(ListAPIView):
+class ListeUser(ListAPIView):
     """
     List all snippets, or create a new snippet.
     """
     queryset = User.objects.all()
     serializer_class = UserSerializer
 
-# class CreateContact(CreateAPIView):
-#     queryset = Contact.objects.filter()
-#     serializer_class = ContactSerializer
+class CreateContact(CreateAPIView):
+    queryset = Contact.objects.filter()
+    serializer_class = ContactSerializer
