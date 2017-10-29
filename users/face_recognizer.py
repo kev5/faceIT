@@ -12,7 +12,8 @@ def image_recognition(file):
 
     gray = cv2.imread(file, 0)
 
-    x, y, h, w, _ = 0, 0, *img.shape
+    x, y,  = 0, 0
+    h, w, _ = img.shape[0], img.shape[1], img.shape[2]
 
     cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)
 
