@@ -1,8 +1,8 @@
 import cv2
-
+from django.conf import settings
 
 def face_detection(file):
-    img = cv2.imread(file)
+    img = cv2.imread(settings.BASE_DIR+file)
 
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 

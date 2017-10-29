@@ -11,6 +11,10 @@ from users.models import User, Contact
 from users.serializers import UserSerializer, ContactSerializer
 from rest_framework.renderers import TemplateHTMLRenderer
 from rest_framework.response import Response
+from .face_detection import face_detection
+from django.core.files.storage import default_storage
+import os
+import tempfile
 
 
 class CheckImage(APIView):
@@ -20,7 +24,14 @@ class CheckImage(APIView):
 
     def post(self,request):
 #        do some processing
-        print request.data
+        image = request.FILES['image']
+        f = open('tmp.png', 'w') # open the tmp file for writing
+        f.write(image.read()) # write the tmp file
+        f.close()
+
+        ### return the path of the file
+        filepath = 'tmp'
+        print face_detection(filepath)
         return Response(dict(mesg=''),template_name='takeImage.html')
 
 
