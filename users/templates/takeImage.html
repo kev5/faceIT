@@ -1,7 +1,19 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>HTML5 Media Device Access</title>
+  <title></title>
+         <link rel="stylesheet" type="text/css" href="/static/rest_framework/css/bootstrap.min.css">
+          <link rel="stylesheet" type="text/css" href="/static/rest_framework/css/bootstrap-tweaks.css">
+
+
+        <link rel="stylesheet" type="text/css" href="/static/rest_framework/css/prettify.css">
+        <link rel="stylesheet" type="text/css" href="/static/rest_framework/css/default.css">
+
+
+    <script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     video, img {
@@ -9,14 +21,49 @@
     }
   </style>
 </head>
-<body>
+ <body class="" data-gr-c-s-loaded="true">
 
+    <div class="wrapper">
+
+
+
+      <div class="container">
+
+<h1>Image Checker</h1>
 <video autoplay></video>
-
+<form id="myAwesomeForm" method="post" action="/php-code-that-handles-fileupload.php">
+    {% csrf_token %}
+</form>
+      </div>
+    </div>
 <script>
+    function b64toBlob(b64Data, contentType, sliceSize) {
+        contentType = contentType || '';
+        sliceSize = sliceSize || 512;
+
+        var byteCharacters = atob(b64Data);
+        var byteArrays = [];
+
+        for (var offset = 0; offset < byteCharacters.length; offset += sliceSize) {
+            var slice = byteCharacters.slice(offset, offset + sliceSize);
+
+            var byteNumbers = new Array(slice.length);
+            for (var i = 0; i < slice.length; i++) {
+                byteNumbers[i] = slice.charCodeAt(i);
+            }
+
+            var byteArray = new Uint8Array(byteNumbers);
+
+            byteArrays.push(byteArray);
+        }
+
+      var blob = new Blob(byteArrays, {type: contentType});
+      return blob;
+}
   (function() {
     'use strict';
     var video = document.querySelector('video'), canvas;
+var form = document.getElementById("myAwesomeForm");
 
    /**
      *  generates a still frame image from the stream in the <video>
@@ -36,7 +83,36 @@
       context.drawImage(video, 0, 0, width, height);
 
      img.src = canvas.toDataURL('image/png');
-      document.body.appendChild(img);
+    var block = img.src.split(";");
+// Get the content type of the image
+var contentType = block[0].split(":")[1];// In this case "image/gif"
+// get the real base64 content of the file
+var realData = block[1].split(",")[1];// In this case "R0lGODlhPQBEAPeoAJosM...."
+
+// Convert it to a blob to upload
+var blob = b64toBlob(realData, contentType);
+
+// Create a FormData and append the file with "image" as parameter name
+var formDataToUpload = new FormData(form);
+formDataToUpload.append("image", blob);
+$.ajax({
+    url:"/check-image/",
+    data: formDataToUpload,// Add as Data the Previously create formData
+    type:"POST",
+    contentType:false,
+    processData:false,
+    cache:false,
+    dataType:"json", // Change this according to your response from the server.
+    error:function(err){
+        console.error(err);
+    },
+    success:function(data){
+        console.log(data);
+    },
+    complete:function(){
+        console.log("Request finished.");
+    }
+});
     }
 
    // use MediaDevices API
