@@ -1,6 +1,6 @@
 # Face Detection and Recognition Web Application
 
-# Members
+## Members
 
 * Keval
 * Devin
