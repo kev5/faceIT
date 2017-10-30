@@ -1,2 +1,9 @@
-# Face-Detection-and-Recognition-Web-Application
-Web application for Boston Hacks 2017
+# Face Detection and Recognition Web Application
+
+ Members
+
+* Keval
+* Devin
+* Brian
+* Amandeep
+* Amit
