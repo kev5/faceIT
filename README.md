@@ -31,3 +31,8 @@ According to these statistics there is a huge opportunity to implement a more su
 1. Create a virtual environment
 2. Install the packages pip install -r req.txt
 3. Python manage.py migrate python mange.py runserver and you're good to go on at localhost:8000
+
+## Challenges Faced
+
+Up until the near end of our project, we had split ourselves into two teams, one working on the facial recognition, the other working on the front and back-end. When it came time to combine our efforts, we had some problems integrating the facial recognition in a way that works well with the front and back-end developers. Also, the android application could not be completed in the given time as our planned minimum viable product was web application.
+
