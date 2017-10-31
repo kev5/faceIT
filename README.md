@@ -38,5 +38,8 @@ Up until the near end of our project, we had split ourselves into two teams, one
 
 ## Accomplishments 
 
-Integration was very challenging. Major props to Aman and Brian for figuring out how to connect OpenCV to Django, and to Amit for creating the frontend web camera that would eventually communicate with both backend frameworks. Although Keval's Andoid SDK didn't find the time to be integrated, we give him major props for expending much mental energy trying to figure out the build and deploying an Android emulator.
+Integration was very challenging. Major props to Aman and Brian for figuring out how to connect OpenCV to Django, and to Amit for creating the frontend web camera that would eventually communicate with both backend frameworks. Although Keval's Andoid Application for face detection and recognition didn't find the time to be integrated, we give him major props for expending much mental energy trying to figure out the build and deploying an Android emulator.
 
+## What we Learned
+
+OpenCV is one of the more difficult Computer Vision libraries that's available as open source. Even though we could've used Microsoft Azure's Face API to run facial recognition, we learned a lot more about histogram of oriented gradients (HOG) by using OpenCV and coding from scratch.
