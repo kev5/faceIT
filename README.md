@@ -43,3 +43,11 @@ Integration was very challenging. Major props to Aman and Brian for figuring out
 ## What we Learned
 
 OpenCV is one of the more difficult Computer Vision libraries that's available as open source. Even though we could've used Microsoft Azure's Face API to run facial recognition, we learned a lot more about histogram of oriented gradients (HOG) by using OpenCV and coding from scratch.
+
+## What's next for *FaceIT*
+
+We would like to see our solution adopted by some Hospital Management Systems or perhaps some Clinical Research Organizations. Test cases could roll out in private clinics so that we could work out any bugs. Scalability and integration for a simple solution like this should be seamless once the kinks are ironed out.
+
+## Built With
+
+OpenCV, Django, Python, JavaScript, HTML, CSS
