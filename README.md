@@ -36,3 +36,7 @@ According to these statistics there is a huge opportunity to implement a more su
 
 Up until the near end of our project, we had split ourselves into two teams, one working on the facial recognition, the other working on the front and back-end. When it came time to combine our efforts, we had some problems integrating the facial recognition in a way that works well with the front and back-end developers. Also, the android application could not be completed in the given time as our planned minimum viable product was web application.
 
+## Accomplishments 
+
+Integration was very challenging. Major props to Aman and Brian for figuring out how to connect OpenCV to Django, and to Amit for creating the frontend web camera that would eventually communicate with both backend frameworks. Although Keval's Andoid SDK didn't find the time to be integrated, we give him major props for expending much mental energy trying to figure out the build and deploying an Android emulator.
+
