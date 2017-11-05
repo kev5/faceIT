@@ -55,6 +55,11 @@ OpenCV, Django, Python, JavaScript, HTML, CSS
 
 ## Interface
 
+### Homepage
 ![](Homepage.png)
 
+### User Information
 ![](UserInfo.png)
+
+### Edit Information
+![](EditInfo.png)
