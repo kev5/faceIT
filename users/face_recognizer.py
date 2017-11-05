@@ -3,9 +3,6 @@ from django.conf import settings
 
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 
-
-
-
 def image_recognition(file):
     recognizer.read(settings.BASE_DIR + '/users/recognizer/training_set.yml')
 
@@ -24,7 +21,6 @@ def image_recognition(file):
         id_ = -1
 
     return id_
-
 
 def capture_recognition():
     recognizer.read(settings.BASE_DIR + '/users/recognizer/training_set.yml')
@@ -55,6 +51,3 @@ def capture_recognition():
     cv2.imwrite("this_is_user_" + str(id_) + ".jpg", gray[y:y+h, x:x+w])
 
     cam.release()
-
-
-
