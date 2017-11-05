@@ -52,3 +52,7 @@ We would like to see our solution adopted by some Hospital Management Systems or
 ## Built With
 
 OpenCV, Django, Python, JavaScript, HTML, CSS
+
+## Interface
+
+![](Homepage.png)
