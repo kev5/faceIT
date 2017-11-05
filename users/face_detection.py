@@ -3,7 +3,6 @@ from django.conf import settings
 
 from users.models import User, Image
 
-
 def face_detection(file):
     img = cv2.imread(settings.BASE_DIR+'/'+file)
     detector = cv2.CascadeClassifier(settings.BASE_DIR + '/users/haarcascade_frontalface_default.xml')
@@ -16,9 +15,6 @@ def face_detection(file):
     cv2.rectangle(img, (x, y), (x + w, y + h), (255, 0, 0), 2)
 
     cv2.imwrite(file, gray[y: y + h, x: x + w])
-
-
-
 
 import os
 
@@ -35,5 +31,3 @@ def create_data():
 
     for file in files:
         Image.objects.create(name=file,user_id=file.split('_')[1])
-
-
