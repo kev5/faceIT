@@ -18,8 +18,8 @@ def train(faces, ids):
     recognizer.train(faces, numpy.array(ids))
     recognizer.write(settings.BASE_DIR + '/users/recognizer/training_set.yml')
 
-# def main():
-#     train(*get_data_set('images'))
+def main():
+    train(get_data_set('images'))
 
-# if __name__ == '__main__':
-#     main()
+if __name__ == '__main__':
+    main()
