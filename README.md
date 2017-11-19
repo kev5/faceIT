@@ -1,5 +1,5 @@
 # Face Recognition // Boston Hacks 2017 
-[Devpost Link](https://devpost.com/software/verafai#updates)
+[Devpost Link](https://devpost.com/software/verafai)
 
 ## Members
 
